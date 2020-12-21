@@ -8,7 +8,7 @@
 > ls, cd, cat, file, du, find
 
 ## Answer
-Run `du -b -a` to show size (in bytes) of each file and direcroty in the directory "inhere". Copy and paste the result into a text file and search for keywork "1033". There is only one result for the searching. Open the file and obtain password "DXjZPULLxYr17uwoI01bNLQbtFemEgo7".  
+Run `du -b -a` to show size (in bytes) of each file and direcroty in the directory "inhere". Copy and paste the result into a text file and search for keywork "1033". There is only one result for the searching. Open the file in size of 1033 bytes and obtain password "DXjZPULLxYr17uwoI01bNLQbtFemEgo7".  
 
 ## Notes
-Null
+Run `du --help` to show help document.
