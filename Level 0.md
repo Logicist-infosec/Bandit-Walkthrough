@@ -15,4 +15,4 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 Run command `ssh bandit0@bandit.labs.overthewire.org -p 2220`, then enter the password when being asked for.
 
 ### Notes
-Use option `-p` to designate the port to connect, the default port number for ssh service is 23.
+Use option `-p` to designate the port to connect, the default port number for ssh service is 22.
